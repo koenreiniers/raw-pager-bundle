@@ -1,0 +1,18 @@
+{
+    "name": "raw/pager-bundle",
+    "type": "library",
+    "description": "Symfony pagination bundle",
+    "keywords": ["pagination"],
+    "homepage": "http://www.koenreiniers.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koen Reiniers",
+            "email": "contact@koenreiniers.nl",
+            "homepage": "http://www.koenreiniers.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Raw\\Bundle\\PagerBundle\\": "src/"}
+    }
+}
